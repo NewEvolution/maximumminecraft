@@ -6,7 +6,8 @@ In addition to allowing the easy use of multiple conflicting mods across the sin
 
 All features are configured via a series of interactive dialog boxes on first run, and can be enabled or disabled at will. This flexibility allows you to use MaximumMinecraft simply as a mod manager, save file backup system, memory manager, or any combination to suit your personal needs and preferences.
 
-Fully configurable features include: 
+#Fully configurable features include: 
+Touchpad two-finger-scroll & Magic Mouse scroll deactivation to prevent inventory switching when shooting arrows.
 
 # Minecraft version/mod set manager: 
 Run multiple versions of Minecraft with different mods.
@@ -49,7 +50,3 @@ Speedier chunk saving and loading times.
 Flash drive option provides a full saves folder backup.
 
 Flash drive saves synchronization for playing your saves on another machine.
-
-
-
-Touchpad two-finger-scroll & Magic Mouse scroll deactivation to prevent inventory switching when shooting arrows.
